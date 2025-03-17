@@ -1,4 +1,4 @@
-import DataStructures.List.array_list as lt
+import array_list as lt
 
 def new_queue():
     return lt.new_list()
